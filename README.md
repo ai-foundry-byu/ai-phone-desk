@@ -77,7 +77,7 @@ flowchart TD
 Python 3.11+, no required dependencies.
 
 ```bash
-git clone https://github.com/jddavenportOpen/ai-phone-desk
+git clone https://github.com/ai-foundry-byu/ai-phone-desk
 cd ai-phone-desk
 pip install -e .                 # gives you the `phone-desk` command (or use: python -m phone_desk)
 cp .env.example .env             # set OWNER_NAME and OWNER_TZ at minimum
